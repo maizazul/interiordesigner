@@ -1,0 +1,45 @@
+.col1 {
+  width: 300px;
+  float: left;
+  margin: 10px;
+}
+.col2 {
+  width: 300px;
+  float: left;
+  margin: 10px;
+}
+
+.col3 {
+  width: 300px;
+  float: left;
+  margin: 10px;
+}
+
+.image {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper {
+  width: 970px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: gold;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: purple;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
