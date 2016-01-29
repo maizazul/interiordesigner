@@ -1,3 +1,6 @@
+body {
+  background-color: grey;
+}
 .col1 {
   width: 300px;
   float: left;
